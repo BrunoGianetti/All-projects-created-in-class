@@ -14,7 +14,7 @@ Some graphics that I build.
 
 Some spreadsheets that I build.
 
-<img width="320" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/S%C3%A9riesTemporais/Captura%20de%20tela%20de%202021-04-11%2012-29-38.png">  <img width="320" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/S%C3%A9riesTemporais/Captura%20de%20tela%20de%202021-04-11%2012-33-46.png">  <img width="310" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/S%C3%A9riesTemporais/grafico1.png">
+<img width="330" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/S%C3%A9riesTemporais/Captura%20de%20tela%20de%202021-04-11%2012-29-38.png">  <img width="330" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/S%C3%A9riesTemporais/Captura%20de%20tela%20de%202021-04-11%2012-33-46.png">  <img width="320" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/S%C3%A9riesTemporais/grafico1.png">
 
 **Certificates**
 
