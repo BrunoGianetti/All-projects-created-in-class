@@ -8,9 +8,9 @@ You will see spreadsheets containing many manipulate data and ploted graphics to
 
 # See this! 👇
 
-<img width="400" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/S%C3%A9riesTemporais/Captura%20de%20tela%20de%202021-04-11%2012-26-42.png">
+<img width="800" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/S%C3%A9riesTemporais/Captura%20de%20tela%20de%202021-04-11%2012-26-42.png">
 
-<img width="500" style="float:right" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/S%C3%A9riesTemporais/Captura%20de%20tela%20de%202021-04-11%2012-28-29.png">
+<img width="600" style="float:right" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/S%C3%A9riesTemporais/Captura%20de%20tela%20de%202021-04-11%2012-28-29.png">
 
 <img width="700" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/S%C3%A9riesTemporais/Captura%20de%20tela%20de%202021-04-11%2012-30-06.png">
 
