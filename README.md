@@ -8,7 +8,7 @@ Every part or complete project that I have participated or builded alone with cl
 
 Some graphics that I build.
 
-<img width="350" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-32-12.png"><img width="310" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-33-57.png"><img width="350" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-34-31.png">
+<img width="350" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-32-12.png"><img width="310" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-33-57.png"><img width="340" style="float:left" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-34-31.png">
 
 **Tables:**
 
