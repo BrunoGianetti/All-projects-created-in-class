@@ -8,12 +8,14 @@ You find a .py with pure code and a .ipynb notebook running in Google Colab or J
 
 # See this! 👇
 
-<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-32-12.png">
+<img width="500" alt="rename screenshot" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-32-12.png">
 
-<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-33-26.png">
+<img width="500" alt="rename screenshot" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-33-26.png">
 
-<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-33-57.png">
+<img width="500" alt="rename screenshot" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-33-57.png">
 
-<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-34-31.png">
+<img width="500" alt="rename screenshot" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Captura%20de%20tela%20de%202021-04-11%2011-34-31.png">
 
 # Certificate 🔥
+
+<img width="900" alt="rename screenshot" src="https://github.com/BrunoGianetti/All-projects-created-in-class/blob/master/Data%20Science/Primeiros%20Passos/Screenshot_2020-01-26%20bruno%20gianetti%20-%20Cursos%20-%20Alura.png">
